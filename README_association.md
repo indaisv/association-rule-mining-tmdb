@@ -129,5 +129,5 @@ python association_rule_mining.py
 
 **Viraj Indais**
 - Email: indaisviraj@gmail.com
-- LinkedIn: https://linkedin.com/in/viraj-indais-48ba2526a
+- LinkedIn: https://linkedin.com/in/viraj-indais
 - GitHub: https://github.com/indaisv
